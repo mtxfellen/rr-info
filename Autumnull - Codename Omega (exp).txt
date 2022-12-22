@@ -1,0 +1,72 @@
+CowsVsMachines Top Secret Document
+===Autumnull - Codename Omega (Expert)===
+
+==Time Breakdown==
+Attack Bomb Deploy Mission, 6 Waves
+Rank #1 Time: 19 min 52 sec
+	Average Wave Time: 3 min 18 sec
+
+==Mission Notes==
+If you are familiar with the strategies used on Shogun Slaughter and Computer Crash, this mission does not differ too much (aside from the increased difficulty)
+	-	You can use uber canteens whilst carrying the bomb
+	-	Killing frontline enemies causes them to respawn at the back, so avoid this where possible
+	-	Spy
+		-	Knife HP desync bug is present
+		-	Consider using sapper upgrades to reduce knockback when deploying the bomb
+	-	Specific Giants will spawn each wave that will only guard the position of the bomb
+		-	Do not bring the bomb all the way to the hatch until it is deployable, or you will be knocked back by 
+			these giants and have to kill them
+			-	If you are running a distraction play, then this can be avoided
+	-	Spec-Ops Snipers
+		-	Invisible crit carbine snipers 
+			-	Unlike robot spies, they cannot be detected by the spy class.
+			-	If you get caught without resistances or uber canteens, they will make short work of you.
+		-	Their positioning can be given away as their yellow eyes do not turn invisible.
+		-	When engaged in combat, they do not attempt to move.
+	-	Cosmil
+		-	These are a general class of enemy robot, but noted under relevant waves noted are ones that deal their signature laser damage that cannot be 
+			fire/blast/bullet resisted, and nor can it be blocked using a projectile shield.
+
+==Wave 1==
+	-	Gate 1 drops after destroying all three Giant Homing Soldiers.
+	-	Gate 2 drops after destroying both Giant Burst Fire Demos.
+	-	Hatch unlocks after destroying both Guardian Burst Soldiers.
+	
+==Wave 2==
+	-	Gate 1 drops after destroying all five Robot Rangers.
+	-	Gate 2 drops after destroying both Giant Heavies.
+	-	Hatch unlocks after destroying both Guardian Laser Soldiers.
+	
+==Wave 3==
+	-	Note: Spec-Ops Snipers begin spawning this wave.
+	-	Gate 1 drops after destroying two Colonel Supress (Giant Demos).
+	-	Gate 2 drops after destroying all three Robot Rangers AND the Giant Rapid Fire Soldier.
+	-	Hatch unlocks after destroying both the Guardian Colonel Barrage AND Guardian Colonel Suppress.
+	
+==Wave 4==
+	-	Note: Prepare classes capable of dealing long-range tank damage in advance.
+	-	Note: Kill the Giant Heal-on-Kill Heavies as soon as possible; even if you do not die to them, they will still heal from killing friendly AI.
+	-	Gate 1 drops after destroying both the Stationary Blimp AND the first Giant HoK Deflector Heavy.
+	-	Gate 2 drops after destroying two Giant HoK Heavies.
+	-	Hatch unlocks after destroying both Giant Artillery Barrages.
+	
+==Wave 5==
+	-	Note: many phlog pyros spawn at the start of this wave.
+	-	Note: Cosmil Laser Gunners begin spawning this wave; their attacks cannot be resisted.
+	-	Gate 1 drops after destroying all three Giant Deflector Heavies.
+	-	Gate 2 drops after destroying all six Giant Cosmil Knights AND all four Giant Cosmil Raygunners.
+		-	Note: Giant Cosmil Raygunners cannot be resisted.
+	-	Hatch unlocks after killing both Guardian Star Cosmil Raygunners.
+	
+==Wave 6 (No Bomb)==
+	-	Note: Star Cosmil Destroyers (Giant Laser Soldiers) spawn this wave; their attacks cannot be resisted.
+	-	Gate 1 drops after killing three Star Cosmil Exterminators (Giant Laser Heavies).
+		-	Note: Star Cosmil Exterminators cannot be resisted.
+	-	Gate 2 drops after killing all of the Star Cosmil Obliterators (Giant Crit Nuke Soldiers).
+	-	The portal opens after killing all remaining giant robots.
+		-	This means that only damage is respected this wave as opposed to strategies in previous waves, so no scout etc.
+	-	The portal spawns the Overseer boss, a giant sniper that attacks using a crit SMG, crit homing rockets and a nuke sniper rifle.
+		-	Spreading out is then effective for anyone not behind the medic's shield.
+		-	Whilst this boss is active, Old Cosmil will spawn, two classes of enemy; demoknights and medium huntsman sniper bots.
+			-	If you choose to run a spy this wave, the spy should mainly focus on disposing of the Huntsman Old Cosmil.
+			-	Demoknight Old Cosmil can generally be safely ignored, and only really pose a threat if you let their numbers build too much.

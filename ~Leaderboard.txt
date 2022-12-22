@@ -1,0 +1,31 @@
+Speedrun Leaderboard
+Mission			#R	#1Time	#2Dif	#P	Diff
+===================================================
+Autumnull		#1	18:19	01:33	6	Hard
+Bigrock (Denom)	#1	19:19	01:41	6	Med
+Bigrock  (Nume)	#1	15:58	03:12	6	Hard
+Cliffside (Adv)	#1	14:08	01:20	5	Hard
+Cliffside (Exp)	#1	14:43	03:36	5	VHard
+Coaltown		#1	08:01	00:58	5	Hard
+Cyberia			#1	10:30	01:10	6	Hard
+Downtown		#1	20:32	01:39	5	Hard
+Encounter		#1	08:56	01:05	5	Hard
+Hanami			#1	09:15	00:09	6	VHard
+Hideout			#1	11:56	01:24	5	Hard
+Isolation (Adv)	#1	17:00	01:08	6	Hard
+Isolation (Exp)	#1	23:13	04:08	6	VHard
+Legerdemain		#1	12:57	05:41	5	VHard
+Rottenburg (BW)	#1	13:26	03:34	5	Hard
+Rottenburg (SS)	#1	03:19	00:03	6	VHard
+Rustvalley		#1	15:26	02:59	5	Hard
+Sequoia   (Adv)	#1	13:50	02:25	6	Hard
+Sequoia   (Exp)	#1	21:19	00:58	5	Hard
+Steep     (Int)	#1	13:00	00:12	5	Hard
+Steep     (Adv)	#1	15:25	00:41	5	VHard
+Swirl     (Int)	#1	15:13	00:01	5	VHard
+Swirl     (Adv)	#1	19:27	01:10	5	VHard
+Teien			#1	05:51	02:48	4	Hard
+Underworld	 	#1	16:24	01:58	5	Hard
+
+Total Category Leads: 25 / 25
+Last Updated: 01:22 UTC 24/08

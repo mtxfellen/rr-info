@@ -1,0 +1,40 @@
+CowsVsMachines Top Secret Document
+===Rottenburg - Spanner Switchup (Intermediate)===
+
+==Time Breakdown==
+Attack Bomb Deploy Mission, 5 Waves
+Rank #1 Time: 3 min 22 sec
+  Average Wave Time: 40.4s
+
+==Strategy Notes==
+ -	Against tunnel guards:
+	 -	Buy Uber canteens as Spy.
+	 -	Sniper, Soldier, anything that can kill at a reasonable range.
+ -	Against Chief Of All Demomen:
+	 -	Utilise Direct Hit Soldiers to kill safely at a range.
+	 -	Close range combat classes are a no-go (fires 36 crit pipes per shot).
+
+==Wave 1==
+ -	Instant bomb spawn.
+ -	Giant Charged Soldier (3800 HP) guards hatch.
+
+==Wave 2==
+ -	2x Giant Rapid Fire Soldier (3800 HP) with 2x Quick Uber Medics defend tunnel.
+ -	Bomb spawns as gate drops.
+	 -	Scout has to return to spawn to get bomb, or bots will take the bomb.
+ -	Giant Rapid Fire Soldier (3800 HP) guards hatch.
+
+==Wave 3==
+ -	Instant bomb spawn.
+ -	Giant Deflector Heavy (5000 HP) guards hatch.
+
+==Wave 4==
+ -	Tank spawns in tunnel (15000 HP).
+	 -	Bomb spawns on Tank death.
+		 -	Scout has to return to spawn to get bomb, or bots will take the bomb.
+ -	Giant Backup Rapid Fire Soldier (3800 HP) guards hatch.
+	 -	If it dies before the Tank, the wave cannot be completed.
+
+==Wave 5==
+ -	Giant Deflector Heavy (5000 HP) with Giant Medic (4500 HP) defend tunnel.
+ -	Chief Of All Demomen (30000 HP) guards hatch.

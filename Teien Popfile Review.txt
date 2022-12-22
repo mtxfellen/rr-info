@@ -1,0 +1,151 @@
+CowsVsMachines Top Secret Document
+===Teien - Shogun Slaughter (Advanced) - Popfile Review===
+
+ -	'guard_stab' is the function used to remove the hatch shield.
+ -	'spawn_first' has two spawn points (https://imgur.com/a/CD8kdNu).
+ -	'spawn_second' has two spawn points (https://imgur.com/a/Mhu4MXU).
+ -	'spawn_third_left'/'spawn_third_right' has two spawn points (https://imgur.com/a/w3mdmkR).
+ -	'spawn_fourth_right' has two spawn points (https://imgur.com/a/Jl7YXTv).
+ -	'spawn_fourth_left' has two spawn points (https://imgur.com/a/Dfnijc2).
+ -	'spawn_fifth' has four spawn points (https://imgur.com/a/7kuzXJf).
+ -	Once the required bots are dead, avoid killing any bots, as they will spawn at 'spawn_final' and interrupt the capture
+	(https://i.imgur.com/VSxLz0O.png).
+ -	Wave contents after Part C are not included as they are not required for deploying.
+
+==Wave 1==
+ -	Points 2-4 are defended by Giant Soldiers.
+ -	Wave 1a must have spawned entirely to spawn Wave 1b.
+	 -	At 'spawn_first':
+		 -	1x Giant Burst Fire Soldier
+		 -	6x Scout
+		 -	7x Demoknight
+	 -	At 'spawn_second':
+		 -	21x Demoknight (MaxActive 12)
+		 -	18x Scout (MaxActive 12)
+		 -	2x Giant Burst Fire Soldier
+ -	Wave 1b must have spawned entirely to spawn Wave 1c.
+	 -	At 'spawn_third_right':
+		 -	1x Giant Hipfire Sniper
+		 -	1x Giant Soldier
+		 -	7x Demoknight
+	 -	At 'spawn_fourth_right':
+		 -	2x Giant Hipfire Sniper
+		 -	2x Giant Soldier
+		 -	20x Demoknight (MaxActive 9)
+ -	Wave 1c
+	 -	At 'spawn_fifth':
+		 -	1x Giant Hipfire Sniper
+			 -	7x Uber Medic
+		 -	2x Giant Hipfire Sniper (Disables Hatch Shield when Cleared along with Medics)
+			 -	14x Uber Medic
+		 -	12x Steel Gauntlet (MaxActive 6)
+		 -	25x Soldier (MaxActive 7)
+
+==Wave 2==
+ -	Points 2-4 are defended by Giant Rapid Fire Soldiers.
+ -	Wave 2a must have spawned entirely to spawn Wave 2b.
+	 -	At 'spawn_first':
+		 -	5x Widowmaker Engineer
+	 -	At 'spawn_second':
+		 -	20x Fist Heavy (MaxActive 12)
+		 -	25x Widowmaker Engineer (MaxActive 10, they will move to the first point)
+		 -	16x Direct Hit Soldier (MaxActive 6)
+		 -	3x Giant Concheror Soldier (MaxActive 2, they will move to the first point)
+ -	Wave 2b must have spawned entirely to spawn Wave 2c.
+	 -	1x Tank (20,000 HP)
+	 -	At 'spawn_third_left':
+		 -	1x Giant Heavy
+		 -	8x Demoman
+	 -	At 'spawn_fourth_left':
+		 -	1x Giant Heavy (It will move to the second point)
+		 -	1x Giant Heavy
+		 -	14x Demoman (MaxActive 10)
+ -	Wave 2c 
+	 -	At 'spawn_fifth':
+		 -	7x Giant Homing Huntsman Sniper (MaxActive 3)
+		 -	1x Giant Burst Fire Demo (It will move to the third point)
+		 -	3x Giant Burst Fire Demo (MaxActive 2, Disables Hatch Shield when Cleared)
+
+==Wave 3==
+ -	Points 2-4 are defended by Giant Burst Fire Soldier.
+ -	Wave 3a must have spawned entirely to spawn Wave 3b.
+	 -	At 'spawn_first':
+		 -	3x Giant Rapid Fire Buff Soldier
+		 -	6x Burst Fire Demo
+	 -	At 'spawn_second':
+		 -	24x Burst Fire Demo (MaxActive 10)
+		 -	20x Scout (MaxActive 10)
+ -	Wave 3b must have spawned entirely to spawn Wave 3c.
+	 -	At 'spawn_third_right':
+		 -	1x Giant Heater Heavy
+			 -	1x Bullet Vac Medic
+			 -	1x Blast Vac Medic
+			 -	1x Fire Vac Medic
+		 -	6x Scout
+		 -	6x Pyro
+	 -	At 'spawn_fourth_right':
+		 -	2x Giant Heater Heavy
+			 -	2x Bullet Vac Medic
+			 -	2x Blast Vac Medic
+			 -	2x Fire Vac Medic
+		 -	18x Scout (MaxActive 10)
+		 -	24x Pyro (MaxActive 10)
+ -	Wave 3c
+	 -	At 'spawn_fifth':
+		 -	1x Giant Rapid Fire Demoman (It will move to the third point)
+		 -	2x Giant Rapid Fire Demoman (Disables Hatch Shield when Cleared)
+		 -	15x Crit Steel Gauntlet Pusher (MaxActive 10)
+		 -	24x Scout (MaxActive 12)
+
+==Wave 4==
+ -	Points 2-4 are defended by Crit Giant Homing Burst Soldiers.
+ -	Wave 4a must have spawned entirely to spawn Wave 4b.
+	 -	At 'spawn_first':
+		 -	1x Crit Giant Homing Burst Soldier
+	 -	At 'spawn_second':
+		 -	3x Crit Giant Homing Burst Soldier (MaxActive 2)
+		 -	28x Shortstop Scout (MaxActive 12)
+ -	Wave 4b must have spawned entirely to spawn Wave 4c.
+	 -	2x Tank (30,000 HP, 50s between spawns)
+	 -	At 'spawn_third_left':
+		 -	1x Giant Deflector Heavy
+		 -	6x Milk Blaster Scout
+	 -	At 'spawn_fourth_left':
+		 -	1x Giant Deflector Heavy (Will move to the second point)
+		 -	2x Giant Deflector Heavy
+		 -	18x Milk Blaster Scout (MaxActive 10)
+ -	Wave 4c
+	 -	At 'spawn_fifth':
+		 -	1x Crit Giant Stunburst Soldier
+		 -	3x Crit Giant Stunburst Soldier (MaxActive 2, Disables Hatch Shield when Cleared)
+		 -	24x Phlogistinator Pyro (MaxActive 10)
+		 -	18x Crit Scout (MaxActive 10)
+
+==Wave 5==
+ -	Points 2-4 are defended by Crit Giant Brass Beast Heavies.
+ -	Wave 5a must have spawned entirely to spawn Wave 5b.
+	 -	At 'spawn_first':
+		 -	2x Giant Heal-on-Kill Deflector Heavy
+	 -	At 'spawn_second':
+		 -	2x Giant Heal-on-Kill Deflector Heavy
+		 -	10x Giant Charged Soldier (MaxActive 6)
+		 -	24x Scout (MaxActive 8)
+		 -	16x Crit Soldier (MaxActive 8)
+ -	Wave 5b must have spawned entirely to spawn Wave 5c.
+	 -	At 'spawn_third_right':
+		 -	1x Giant Rapid Backup Soldier
+	 -	At 'spawn_fourth_right':
+		 -	1x Giant Rapid Backup Soldier
+		 -	1x Giant Rapid Backup Soldier
+		 -	8x Giant Spiky Bonk! Scout (MaxActive 4)
+		 -	20x Fat Samurai (MaxActive 8)
+		 -	20x Heavyweapons (MaxActive 6)
+ -	Wave 5c
+	 -	At 'spawn_fifth':
+		 -	1x Giant Rapid Conch Soldier (Will move to the third point)
+			 -	1x Giant Medic
+		 -	3x Giant Rapid Conch Soldier (MaxActive 2, Disables Hatch Shield when Cleared)
+			 -	3x Giant Medic
+		 -	36x Bushwacka Sniper (MaxActive 8)
+		 -	24x Crit Soldier (MaxActive 6)
+		 -	8x Giant Sydney Sniper (MaxActive 4)

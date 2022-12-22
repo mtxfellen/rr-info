@@ -1,0 +1,114 @@
+CowsVsMachines Top Secret Document
+===Coaltown - Computer Crash (Advanced)===
+
+==Mission Notes==
+	-	A class limit of ONE is applied to the Medic, Spy and Heavy.
+	-	For all but the final two waves, the bomb hatch is sealed until certain enemies are defeated within the wave.
+	-	The bomb hatch is defended by various robots, but only one hatch guardian will physically block the deployment of the bomb.
+	-	The stage for this mission is littered with sentries; not every single one needs to be cleared, but the right flank needs to be 
+		accessible to the team, and the bomb hatch needs to be accessible to the deploying combo.
+			-	Long range classes with no falloff are best suited to this - Soldiers and Snipers are prime examples.
+			-	Although Spy has the ability to deal with some sentries, it is heavily restricted due to being only able to sap one target at once.
+			-	It's worth noting the sentries are generally the worst source of knockback on this map, but in particular level 2 sentries deal the most knockback.
+	
+==Strategy Notes==
+	-	Recommended 6-man class roster: Medic, Heavy, Scout, Spy, Soldier, Sniper?
+		-	A Medic is highly recommended for this mission as Quick-Fix Charges prevent knockback whilst deploying the bomb.
+			-	Uber canteen specialist is very useful for simply progressing waves as they are comparable in price to respawning but also take far less time
+			- 	Projectile shield is also an unignorable source of incoming damage prevention, as it can take infinite damage without any knockback being inflicted while active
+		-	A Heavy is a fairly no-brainer recommendation for their high and consistent damage output when considering destroying both Giants and normal robots.
+			-	The Gloves of Running Urgently are the standard for progressing quickly
+			-	In addition, Heavy's high health pool make him an excellent backup choice for deploying the bomb.
+				-	The Fists of Steel are a good option for planting the bomb without an ubercharge
+		-	A Scout is recommended as the de-facto bomb deployer - once the wave is in a clearable state, the Medic should pocket the Scout they are capable at moving at
+			high speed, increasing the useful duration of the Medic's uber (as they can cover more ground to the hatch than any other class).
+			-	It may be worth substituting a Scout with a more experimental class choice, such as a Soldier who has their only focus as to rocket jump over to the hatch or a Demo with reduced push force, 
+				but due to Scout's strong in-wave support (AoE Mad Milk, Cheap mini-crits with the Fan-o-War) and ability to grant the Medic increased run speed, I'd recommend Scout for deploying primarily.
+			-	Do not use the Shortstop if you are deploying; it has an increased knockback taken stat.
+		-	Spy instantly disposes of most of the hatch defenders making it too critical of time save to not use.
+			-	You can safely dispose of non-giant hatch defenders if Your Eternal Reward is used.
+				-	If you opt to use Your Eternal Reward, the Invis Watch should be used instead of the Dead Ringer as it has infinite cloak for disguises this mission.
+			-	You should use the Revolver or Enforcer for the higher damage output against sentries.
+		-	Soldier is a damage support choice to supplement the Heavy; they should equip the Concheror for team survivability and the Disciplinary Action to allow the Heavy to progress the wave faster
+		-	Since Spy is limited to one and already preoccupied, a Hitman's Heatmaker Sniper is the next logical choice for disposing of Giants.
+			-	One could also run double Soldier and shuffle upgrades around elsewhere to make use of a double banner setup.
+
+==General Wave Progression==
+- Begin wave; Scout (or whoever the deployer will be) should take the bomb after friendly AI drops it.
+- Progress quickly up the right flank; the Sniper or Soldier should destroy the sentries immediately visible in that region.
+- Spy should immediately move to the bomb hatch ahead of the team.
+	- The hatch guardian's hitbox can be targeted outside of the shield and should be taken care of first, as it will turn around more if you sap first.
+	- After this, the rest of the time should be spent dismantling sentries to reduce incoming damage against the deploying combo
+- The rest of the team should progress together, utilising a combo of Projectile Shield, Ubercharge, The Concheror and Mad Milk to avoid dying.
+- Sniper should almost always target giants while progressing through the wave; the rest of the team should use their discrection in the moment regarding what to target.
+- Sniper and Scout should mark Giants as the Soldier will likely be using the Concheror, and mini-crits are invaluable to the Heavy's damage output.
+- After the hatch is unlocked, the Sniper and Soldier should seek a rooftop position to remove any remaining hatch sentries.
+	- Alternate position (https://i.imgur.com/2qtMcPD.png) if infeasible at the time. Sniper focuses hatch obstructions, whilst the Heavy defends the Sniper.
+- Once the hatch defender is dead, the Medic should Uber-pocket the Scout and the Scout should deploy the bomb.
+	- Stock uber seems capable of resisting the knockback of one or two sentries, but allowing more to be present may be committing self-sabotage.
+	- Anyone else present, particularly the Spy, should attempt to draw fire from the combo
+
+==Wave 1==
+Map sentries are level 1 this wave - no sentry on roof.
+
+- The bomb hatch unlocks after destroying 30 Demoknights.
+	- The first wave of Demoknights that spawn -after- destroying the Giant Rapid Fire Demoman contains the 30th Demoknight.
+	- There are 36 Demoknights total in the wave; when nearing only 6 indicated left on the HUD, the bomb deploy squad should ready themselves to close in on the hatch.
+- The hatch is blocked by a single 'Large Demoman'; it is not a giant, and thus can be killed -instantly- by a Spy with no damage upgrades.
+
+==Wave 2==
+Map sentries are level 1 this wave.
+Consider playing passively at the start of this wave, utilising heal effects like Mad Milk, as the enemy pyros are constant fire and will bypass Medic's projectile shields.
+
+- The bomb hatch unlocks after destroying 3 Unload Demomen and 6 Soldiers.
+	- The first wave of enemies that spawn after killing all but one pyro is comprised entirely of the enemies you need to kill.
+- The hatch is blocked by a 'Pipe Fountain Demoman' - it will fire regardless of whether is detects a target is present or not, so take caution.
+	- Despite its misleading appearance, it is also not a giant, and can again be killed instantly by a Spy.
+
+==Wave 3==
+Map sentries are level 2 this wave (maximum total knockback).
+
+- The bomb hatch unlocks after destroying the first Giant Burst Fire Demoman.
+	- It only spawns after the death of the first four Force-a-Nature Super Scouts.
+- The hatch is blocked by a single Steel Gauntlet, and can be killed instantly by a Spy.
+
+==Wave 4==
+Map sentries are level 3 this wave (sentry rockets deal additional burst knockback that make planting a nightmare).
+- The bomb hatch unlocks after destroying 8 Heavyweapons.
+	- These spawn in tandem with a Giant Heavy, both spawning after most of the Rapid-Fire Laser Soldiers are dead.
+- The hatch is blocked by a Giant Scout.
+	- To kill this, the Spy should be using maximum damage upgrades; it should die in only two backstabs.
+	
+==Wave 5==
+Map sentries are level 3 this wave.
+
+- The bomb hatch is unlocked this wave.
+	- With this in mind, the only enemy that needs to die is hatch defender, and the only secondary goal is to destroy the sentries surrounding the hatch.
+- The hatch is blocked by a Giant Shotgun Heavy.
+	- With maximum damage upgrades, it will take 5 backstabs to kill which is plenty of time for it or the sentries to take you out first; as a Spy, you must buy uber canteens.
+		- Consider running at least two Spies this wave (or more if you can manage to not compromise the mission)
+		- Since you can't kill the hatch guard instantly this wave, consider using the stock Knife with the Dead Ringer
+- The Giant Spam Adept will lay stickies capable of knocking back anyone, take precautionary measures.
+
+==Wave 6==
+There are no map sentries this wave.
+All map barriers are lifted this wave, so the fast leftside approach can be used.
+
+- Destruction of THE CORRUPTED, a boss Giant Soldier is the winning condition for this mission.
+	- It spawns on the platform behind the bomb hatch and will progress through the level towards any players.
+	- It spam attacks using homing rockets and lasers, dealing blast and fire damage respectively.
+		- It does not deal bullet or crit damage, so save credits when purchasing resistances
+	- Recommended Class Respec
+		- Scout -> Soldier
+		- Spy -> Soldier
+		- Sniper should also consider Soldier but is still a respectable damage pick.
+		- Crit Dragon's Fury Pyro is very cheap to max damage for (higher dps than phlog) and Pyro will provide the Huo-Long Heater buff if required.
+	- Recommended Item Respec
+		- Medigun -> Kritzkrieg
+			- This boss can be ubersawed to build Kritzkrieg charge quickly.
+		- Rocket Launcher or Direct Hit -> Beggar's Bazooka or Air Strike
+			- Beggar's Bazooka: The accuracy required to take down enemies at a range is no longer requried, so the increased DPS is preferred.
+			- Air Strike: If you already have sufficient banner buffs, you get a rough total of $6500 credits throughout the mission, making this a viable damage choice.
+		- Minigun -> Brass Beast or Huo-Long Heater
+			- The boss is not very mobile once engaged.
+	- You should max crit canteens for this wave.

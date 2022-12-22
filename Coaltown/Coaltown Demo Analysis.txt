@@ -1,0 +1,187 @@
+CowsVsMachines Top Secret Document
+===Coaltown - Computer Crash (Advanced) - Demo Review (Rank #1 Time 8 min 59 sec)===
+
+Beginning Roster: Spy, Sniper, Heavy, Medic, Scout, Engineer.
+Sniper
+	- Hitman's Heatmaker
+	- Jarate (inferred - never used)
+	- Kukri
+Spy
+	- The Diamondback
+	- Electro-Sapper
+	- Your Eternal Reward
+	- Invis Watch
+Heavy
+	- The Brass Beast
+	- Unknown (never used)
+	- Fists of Steel
+Engineer
+	- Rescue Ranger
+	- Unknown (never used)
+	- The Jag
+Medic
+	- Crusader's Crossbow
+	- The Medigun
+	- Ubersaw
+Scout
+	- Scattergun
+	- Mad Milk
+	- Fan-o-war
+	
+==Wave 1==
+*Wave begins*
+	- Standard play; scout is carrying the bomb, the team kills the bots required to unlock the hatch (heavy is pocketed),
+	  and then make their way up the right flank, and the Sniper kills the bots on the hatch whilst the heavy protects the Sniper. (ss1)
+	- After the spy kills the 'Large Demoman' on the hatch (note: the giant rapid fire demoman is still alive near the hatch), the
+	  scout moves to deploy the bomb. The medic uses their ubercharge on the scout, and they secure wave 1.
+Time spent on Wave 1: 1 min 34 sec
+
+==Wave 2==
+	- Scout purchases Uber canteens
+	- Sniper purchases Explosive Headshots
+	- The team all press F4 in under 2s of being able to do so.
+*Wave begins*
+	- Standard play; scout is carrying the bomb, the team kills the bots required to unlock the hatch (scout uses mad milk to keep the team alive).
+	  Medic protects a level 3 sentry using projectile shield to repel Unload Demos and Soldiers.
+	- Scout and medic attempt to uber rush hatch the moment the hatch unlocks; scout gets blocked by the Pipe Fountain Demoman guarding the hatch, and both promptly die.
+	- Shortly after this, the heavy is positioned on the roof above the sealed pit shooting enemies on the hatch, whilst the engineer attempts to place a level 3 sentry
+	  on the right flank at the stairs leading down to the bomb hatch; they promptly die.
+	- Sniper positions themselves on the roof with the heavy; heavy does not protect the sniper and they both promptly die.
+	- Scout rushes the hatch alone and uses an uber canteen before picking up the bomb and attempting to deploy; the bomb drops, and after using a total of two canteens, the scout dies.
+	- By now, robots have started to re-enter the route to the hatch and the team has to clear them out before progressing.
+	- Spy seems to want to attempt something at the hatch but walks over the bomb and promptly dies to the level 1 sentries that are still intact.
+	- Heavy and Medic enter the hatch area from the roof, the Medic protecting them using the projectile shield. They jump down over the sealed pit, whilst the Sniper opts to stay on the roof.
+	- Shortly after, the Medic uses their ubercharge (ss2), and the heavy attempts to plant the bomb; the bomb drops on the hatch, and they both promptly die.
+	- During this, the sniper is aggressed on the roof and is forced to take the right flank before dying.
+	- Enemy robots have now begun to re-enter the starting area; the team votes to restart the mission.
+	
+==Wave 1==
+Changes:
+	- Engineer -> Soldier
+		- Beggar's Bazooka
+		- The Concheror
+	- Medic -> Heavy
+		- Minigun
+		- Fists of Steel
+	- Heavy -> Sniper
+		- Hitman's Heatmaker
+		- Has opted to take Explosive Headshots on Wave 1.
+	- Spy -> Medic
+		- The Medigun
+	- Sniper -> Spy
+		- Revolver
+		- Electro-Sapper
+		- Knife
+		- Invis Watch
+		
+	- New Roster: Spy, Sniper, Heavy, Medic, Scout, Engineer.
+		- Net change: Engineer -> Soldier
+
+*Wave begins*
+	- Standard play; Sniper positions themselves on top of the left building using the stairs access from spawn and focuses giants, and spy also focuses giants with the sniper.
+	  Rest of the team first focuses the small demoknights before moving on to the giant pyro, medic is critically injured and has to walk backward for a pack, and so are not present for most of this
+	  exchange, causing the heavy to die. Smooth sailing once again after this, and they kill the required bots as they move up. Spy runs ahead during this and saps some sentries on last, before dying to said sentries.
+	  Upon reaching the hatch area, the heavy/medic combo attempt to uber&shield in with the bomb, but this immediately drops the bomb at the top of the right-flank stairs and they both die, and this also causes other 
+	  members of the team on the flank to die. Shortly after, the spy returns to deal with the final sentry.
+	  Team is unable to re-push back through the robots that are converging on the route to the bomb; they then proceed to spend over 2 minutes in-wave sat at the starting area after the sniper brought back the bomb, before
+	  they finally decide to restart the mission. Note: appears scout was afk this wave.
+	  
+===== Successful Run Start - Demo Tick 46900=====
+
+==Wave 1==
+Changes:
+	- Sniper
+		- Unknown (never used) -> Cozy Camper
+	- Soldier
+		- Beggar's Bazooka -> Rocket Launcher
+	- Spy
+		- Knife -> Your Eternal Reward
+		
+*Wave begins*
+	- Standard play; Sniper positions themselves on top of the left building using the stairs access from spawn and focuses giants. 
+	  Medic uses projectile shield and the team suffers no deaths.
+	  Spy elects to ignore all the bots and moves immediately to the hatch area following the wave starting, where they spend their time only sapping sentries.
+	  The team kills all the bots necessary to unlock the hatch, and opt to enter the hatch area using the roof over the sealed pit.
+	  Spy does not attempt to sap the front two sentries; instead, they stab random normal bots around the hatch.
+	  Sniper is forced to enter a duel with a bowman as the team jumps down and is not present for this push.
+	  Soldier spams rockets at the hatch from the roof; Heavy stands and kills random bots behind the fences below the roof.
+	  Spy dies to a random sentry, discovering that the Your Eternal Reward disguise does not protect him if a backstab occurs undisguised in front of a sentry.
+	  Medic ubers the Scout while they are carrying the bomb into the hatch area, and seems to accidentally disconncet the beam whilst the bomb is being planted before reconnecting it; Scout successfully plants the bomb.
+Time spent on Wave 1: 1 min 12 sec
+	
+==Wave 2==
+	- The team all press F4 in under 2s of being able to do so.
+	- Of note, the scout does not elect to purchase uber canteens this time.
+*Wave begins*
+	- Standard play; sniper assumes a ground position this time due to their spawn location and focuses giants, whilst the team plays more passively to avoid pyro bots (knowing projectile shield cannot protect them).
+	  Scout uses Mad Milk on the bots to keep the team alive.
+	  Despite their passive positioning, the Medic is forced to use their ubercharge to save the heavy.
+	  The team kills the bots they need to unlock the hatch; by now, the spy has also destroyed all the sentries at the hatch.
+	  Spy kills the Pipe Fountain Demoman guarding the hatch.
+	  Soldier secures their rooftop position and spams rockets on to the hatch, whilst the Sniper and Heavy have yet to reach the right flank.
+	  Medic ubers the Scout carrying the bomb onto the hatch, and they successfully deploy.
+Time spent on Wave 2: 1 min 13 sec
+	
+==Wave 3==
+	- The team all press F4 in under 2s of being able to do so.
+*Wave begins*
+	- Standard play; opens with the Sniper focusing giants from their ground position, and a little while later, the rest of the team joins them after purchasing upgrades.
+	  Spy once again elects to move immediately to the hatch to sap sentries.
+	  Soldier uses the concheror to great effects; of note is the move speed buff allowing the fast progression of the Heavy/Medic combo.
+	  Sniper focuses the Giant Burst Fire Demo in order to progress, team helps somewhat with damage but is mostly occuiped with killing small scouts. The team kills it without issue as the medic makes use of their projectile shield.
+	  The hatch is only blocked by a Steel Gauntlet; the Spy instantly kills it undetected using Your Eternal Reward.
+	  Scout is ubered quite early by the Medic; no one is on the right flank or roof position yet, and the Soldier is yet to fire a rocket from the roof by the time the Scout successfully deploys the bomb.
+Time spent on Wave 3: 58 sec
+
+==Wave 4==
+	- The team all press F4 in under 1s of being able to do so.
+*Wave begins*
+	- Standard play; the team makes their way up the start hill whilst the Sniper destroys the first sentry, and they make contact at the top of the hill.
+	  Spy moves to the bomb hatch and begins to sap sentries.
+	  Sniper and the rest of the team focus giants, only opting to kill the small soldiers after the Giant Bazooka Soldier is dead. Medic keeps the team alive using their projectile shield.
+	  Giant Heavy dies very quickly (fan-o-war), along with the accompanying heavies needed to unlock the hatch.
+	  Spy trades their life in order to kill the Giant Scout blocking the hatch.
+	  Medic ubers the Scout quite early once again, but manage to deploy the bomb nontheless.
+Time spent on Wave 4: 1 min 1 sec
+
+==Wave 5==
+	- The team all press F4 in under 1s of being able to do so.
+*Wave begins*
+	- Standard play; the team makes their way up the start hill killing small robots as they do. Soldier destroys the first sentry, whilst the Spy moves to last to remove the sentries there.
+	  On encountering the Giant Armored Sandman Scouts at the top of the hill along with the Giant Unload Demoman, the Medic uses their projectile shield to protect the team.
+	  Spy realises there is no shield at the hatch and attempts to kill the Giant Shotgun Heavy blocking it immediately; they get off one stab before dying (they did not remove any sentries before attempting this).
+	  Scout uber canteens ahead of his team and promptly gets trapped on the right flank by Giant Armored Sandman Scouts, and is forced to back up into their team.
+	  Sniper and Heavy (pocketed) focus down the Quick-Fix/Soldier combos.
+	  Team fails to recognise the spawning of the Giant Deflector Heavy and the Medic has to use their ubercharge to save them.
+	  Sniper kills the Giant Deflector Heavy; due to the team's slow response (Giant was not debuffed at any point), they are now surrounded (minus the Sniper who retreats)
+	  Spy saps one sentry and gets one more stab on the Giant Shotgun Heavy before promptly dying again.
+	  Medic and Heavy die to the Giant Armored Sandman Scouts and Giant Shotgun Heavy; Soldier leaves the combo using their conch to survive and takes position on the roof overlooking the bomb hatch.
+	  Soldier begins killing sentries defending the hatch but are interrupted by a Giant Shotgun Heavy, and promptly die.
+	  By now, the team has been pressed back to the bottom of the hill by a combination of assorted Giants and Extended Conch Soldiers.
+	  Spy arrives at the hatch again and manages two more stabs on the Giant Shotgun Heavy, and dies once more (three of four hatch sentries are still alive).
+	  Scout arrives at the hatch using an uber canteen carrying the bomb, but cannot deply due to the hatch still being blocked, and promptly dies.
+	  Medic ubers the Heavy and uses their projectile shield, allowing the Sniper, Heavy and Soldier to kill the Giants camping their spawn.
+	  Soldier secures their position on the rooftop again; and spams down the remaining health of the Giant Shotgun Heavy blocking the hatch.
+	  Spy saps one sentry, and the Soldier destroys the last two, allowing the Medic to uber the Scout and deploy the bomb.
+Time spent on Wave 5: 1 min 48 sec
+
+==Wave 6==
+Changes:
+	- Scout -> Soldier
+		- The Original
+		- Shotgun
+		- Note: from visual inspection alone, it appears the Soldier forgets to buy upgrades.
+	- Heavy
+		- Minigun -> The Brass Beast
+	- The team press F4 relatively quickly but markedly slower than previous waves.
+*Wave begins*
+	- Standard play; the team make their way to THE CORRUPTED; the Heavy is the primary pocket for the Medic's ubercharges and shields.
+	  Heavy uses crit canteens throughout the fight, both their own and the Medic's.
+	  Sniper remains far back on the left flank for safety and after killing a few small enemies with explosive headshot for focus charge, begins damaging the boss.
+	  Spy takes the long route to the boss and is ignited whilst doing so, forcing them to take a further detour for a pack; they get three stabs on the boss before exploding remarkably.
+	  Second Soldier opts to facetank the boss rather than stand behind the shield and promptly dies.
+		- Note: may be a tactical decision as the Soldier is then seen buying upgrades, but the boss is below half HP at this point.
+		  They swap to the Beggar's Bazooka and B.A.S.E. Jumper, almost killing themselves attempting to return to the fight, forcing the Medic to abandon the team.
+	  The team (at this point, just the original Soldier and the Heavy) hold fine in front of the boss due to the concheror's healing.
+	  The boss dies shortly after the Medic returns to the team.
+Time spent on Wave 6: 1 min 40 sec
